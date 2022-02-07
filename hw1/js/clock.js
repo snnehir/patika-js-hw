@@ -9,6 +9,5 @@ document.querySelector("#myClock").onload.showTime = () =>{
    document.querySelector("#myClock").innerHTML = date_format
 } 
 
-
-// run and refresh every time
+// refresh date
 setInterval(document.querySelector("#myClock").onload.showTime);
