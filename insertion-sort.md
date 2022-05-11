@@ -1,4 +1,4 @@
-# Proje 1 - Insertion Sort
+# Project 1 - Insertion Sort
 
 ## 1st array: [22, 27, 16, 2, 18, 6]
 
